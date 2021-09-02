@@ -29,7 +29,7 @@ OpenCore is an alternative bootloader to CloverEFI or Chameleon. It is not only 
 - **AUDIO CODEC**: IDT92HD91BXX
 - **ETHERNET**: Intel I218-LM
 - ~~**WIFI**: Intel Dual Band Wireless-N 7260NB 802.11 a/b/g/n (2 x2 ) WiFi  //  *It's not compatible.*~~
-- **WIFI**: is NOW compatible, check [itlwm.](https://github.com/OpenIntelWireless/itlwm)
+- **WIFI**: Intel Wi-Fi Drivers are NOW compatible for macOS, check [itlwm.](https://github.com/OpenIntelWireless/itlwm)
 
 Here you can check the different models: https://support.hp.com/lv-en/document/c03961746
 
@@ -116,3 +116,4 @@ https://github.com/corpnewt/GenSMBIOS
    - [InsanelyMac's OpenCore forums](https://www.insanelymac.com/forum/topic/338516-opencore-discussion/) for finding issues with hardware and their work arounds
    - [RehabMan](https://github.com/RehabMan) for DSDT-Patches
    - [blint01](https://github.com/blint01/hackintosh-mojave-HP-840-G1) for Clover configuration guide
+   - [itlwm](https://github.com/OpenIntelWireless/itlwm) Intel Wi-Fi Drivers for macOS
