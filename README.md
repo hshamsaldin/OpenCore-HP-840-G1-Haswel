@@ -28,7 +28,8 @@ OpenCore is an alternative bootloader to CloverEFI or Chameleon. It is not only 
 - **GPU**: Integrated, Intel HD Graphics 4400
 - **AUDIO CODEC**: IDT92HD91BXX
 - **ETHERNET**: Intel I218-LM
-- **WIFI**: Intel Dual Band Wireless-N 7260NB 802.11 a/b/g/n (2 x2 ) WiFi  //  *It's not compatible*
+- ~~**WIFI**: Intel Dual Band Wireless-N 7260NB 802.11 a/b/g/n (2 x2 ) WiFi  //  *It's not compatible.*~~
+- **WIFI**: is NOW compatible, check [itlwm.](https://github.com/OpenIntelWireless/itlwm)
 
 Here you can check the different models: https://support.hp.com/lv-en/document/c03961746
 
