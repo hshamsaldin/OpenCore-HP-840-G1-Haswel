@@ -31,6 +31,7 @@ OpenCore is an alternative bootloader to CloverEFI or Chameleon. It is not only 
 - ~~**WIFI**: Intel Dual Band Wireless-N 7260NB 802.11 a/b/g/n (2 x2 ) WiFi  //  *It's not compatible.*~~
 - **WIFI**: Intel Wi-Fi Drivers are NOW compatible for macOS, check [itlwm.](https://github.com/OpenIntelWireless/itlwm)
 
+
 Here you can check the different models: https://support.hp.com/lv-en/document/c03961746
 
 ## Changes:
