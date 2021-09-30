@@ -38,10 +38,10 @@ Here you can check the different models: https://support.hp.com/lv-en/document/c
 
 With Rehabman's SSDT-patches and kexts. You should boot OpenCore normally, but i have made very important changes to the ACPI-files and config.plist to make it as close to "Apple Like" as possible to fit the OpenCore mood.
 
-* Removed ~~SSDT-HDEF and SSDT-HDAU audio patches from SSDT-8x0G1h.aml~~, and Applies AppleALC audio injection, you'll need to do your own research on which codec your motherboard has and match it with AppleALC's layout. [AppleALC Supported Codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
+* Removed ~~SSDT-HDEF~~ and ~~SSDT-HDAU~~ audio patches from SSDT-8x0G1h.aml, and Applies AppleALC audio injection, you'll need to do your own research on which codec your motherboard has and match it with AppleALC's layout. [AppleALC Supported Codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
 * Replaced ~~IGPU.aml~~ With PNLF.aml for backlight controls to work properly with OpenCore.
-* Removed ~~unnecessary config.plist patches that are made for other motherboards, like HP-840-G3~~.
-* Removed ~~SSDT-USB-8x0-G1 and USBInjectAll.kext~~. Reason for this is USBInjectAll.kext is no longer being maintained and the USBmap.kext version is how real macs USB map. [USBMap](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html).
+* Removed unnecessary ~~config.plist~~ patches that are made for other motherboards, like HP-840-G3.
+* Removed ~~SSDT-USB-8x0-G1~~ and ~~USBInjectAll.kext~~. Reason for this is USBInjectAll.kext is no longer being maintained and the USBmap.kext version is how real macs USB map. [USBMap](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html).
 
 
 ## BIOS Settings:
