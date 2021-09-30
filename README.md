@@ -1,4 +1,4 @@
-# OpencCore-HP-840-G1-Haswell
+# OpenCore-HP-840-G1-Haswell
 
 This HP Elitebook 840 G1 EFI configuration is based on, [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html), and [RehabMan's HP guide](https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch.261719/). This is also really useful.
 
